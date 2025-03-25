@@ -2,6 +2,10 @@
 
 **Juoksusovellus**, jonka avulla käyttäjä voi pitää kirjaa *treeneistään*.
 
-[Laskarit](./laskarit/)
+## Laskarit
+- [Laskarit](./laskarit/)
 
-[Vaatimusmäärittely](./dokumentaatio/vaatimusmaarittely.md)
+## Dokumentaatio
+
+- [Vaatimusmäärittely](./dokumentaatio/vaatimusmaarittely.md)
+- [Työaikakirjanpito](./dokumentaatio/tuntikirjanpito.md)
